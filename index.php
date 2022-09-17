@@ -110,7 +110,7 @@
                         Eazy Pick up
                     </h1>
                     <p class="text-darkGrey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id sit nulla itaque officiis recusandae deleniti laboriosam consequatur porro? Necessitatibus provident cupiditate totam sapiente rem tempora consequuntur dolor saepe repudiandae sunt?
+                        Pilah, Klik, dan Tunggu! uangmu akan datang menghampirimu
                     </p>
                     <button type="button" class="btn btn-purple hover:bg-white hover:text-green-500 border-2 hover:border-green-500"><a href="#">Clean ITS</a></button>
                 </div>
