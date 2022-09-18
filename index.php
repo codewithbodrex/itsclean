@@ -76,7 +76,7 @@
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
             <h1 class="text-3xl text-center text-green-500">Features</h1>
             <p class="text-center text-darkGrey mt-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, saepe ducimus libero porro illum delectus accusamus incidunt nulla. Ipsa enim accusamus est voluptatem aspernatur, odit id ut nobis in excepturi!
+            Tujuan kami adalah untuk memastika sampah dipilah dengan sebagaimana mestinya. Kami menghargai setiap sampah yang dihasilkan dari rumah anda untuk didaur ulang kembvali.
             </p>
         </div>
         <!---Features #1-->
@@ -91,7 +91,7 @@
                         Get Your Income
                     </h1>
                     <p class="text-darkGrey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum enim dolorem eos provident earum consequuntur quae aut minus, doloribus consectetur, debitis modi eius obcaecati, esse neque aliquam! Neque, deserunt aut?
+                    Butuh dana lebih tapi pengen rebahan aja? IT'S clean bisa membantumu memiliki Dana lebih sekaligus dengan rumah yang bersih.
                     </p>
                     <button type="button" class="btn btn-purple hover:bg-white hover:text-green-500 border-2 hover:border-green-500"><a href="#">Clean ITS</a></button>
                 </div>
