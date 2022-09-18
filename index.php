@@ -41,21 +41,18 @@
             <!-- content -->
             <div class="flex flex-1 flex-col items-center lg:items-start">
                 <div class="grid grid-cols-2 gap-4">
-                    <h2 class="text-darkBlack text-3xl md:text-4xl lg:text-5xl text-center lg:text-left mb-6">
-                        Super Fast
-                    </h2>
                     <h2 class="text-green-500 text-3xl md:text-4xl lg:text-5xl text-center lg:text-left mb-6">
-                        Pick Up
+                        IT'S CLEAN
                     </h2>
                 </div>
-                <div class="grid grid-cols-2 gap-4">
+                <!-- <div class="grid grid-cols-2 gap-4">
                     <h2 class="text-green-500 text-3xl md:text-4xl lg:text-5xl text-center lg:text-left mb-6">
                         Delivery
                     </h2>
                     <h2 class="text-darkBlack text-3xl md:text-4xl lg:text-5xl text-center lg:text-left mb-6">
                         Service
                     </h2>
-                </div>
+                </div> -->
                 <p class="text-darkGrey text-lg text-center lg:text-left mb-6">
                     Yuk kita mulai hidup bersih dengan membuang sampah pada tempatnya. Dengan membuang sampah pada tempatnya, kita dapat membuat lingkungan sekitar menjadi lebih bersih dan sehat.                </p>
                 <div class="flex justify-center flex-wrap gap-6">
@@ -74,9 +71,9 @@
     <section id="features" class="bg-white py-20 mt-20 lg:mt-60">
         <!--Heading-->
         <div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
-            <h1 class="text-3xl text-center text-green-500">Features</h1>
+            <h1 class="text-3xl text-center text-green-500">Product & Service</h1>
             <p class="text-center text-darkGrey mt-4">
-            Tujuan kami adalah untuk memastika sampah dipilah dengan sebagaimana mestinya. Kami menghargai setiap sampah yang dihasilkan dari rumah anda untuk didaur ulang kembvali.
+            Tujuan kami adalah untuk memastikan sampah dipilah sebagaimana mestinya. Kami menghargai setiap sampah yang dihasilkan dari rumah anda untuk didaur ulang kembali.
             </p>
         </div>
         <!---Features #1-->
@@ -88,10 +85,10 @@
                 </div>
                 <div class="flex flex-1 flex-col items-center lg:items-start">
                     <h1 class="text-3xl text-green-500">
-                        Get Your Income
+                        It's Pick Up
                     </h1>
                     <p class="text-darkGrey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">
-                    Butuh dana lebih tapi pengen rebahan aja? IT'S clean bisa membantumu memiliki Dana lebih sekaligus dengan rumah yang bersih.
+                    Sampah menumpuk, tapi bingung mau dibuang kemana. Sekarang kami dapat mengurusnya. Cukup klik It's Clean maka petugas akan datang untuk mengurusnya.
                     </p>
                     <button type="button" class="btn btn-purple hover:bg-white hover:text-green-500 border-2 hover:border-green-500"><a href="#">Clean ITS</a></button>
                 </div>
@@ -107,16 +104,18 @@
                 </div>
                 <div class="flex flex-1 flex-col items-center lg:items-start">
                     <h1 class="text-3xl text-green-500">
-                        Eazy Pick up
+                        It's Sell
                     </h1>
                     <p class="text-darkGrey my-4 text-center lg:text-left sm:w-3/4 lg:w-full">
-                        Pilah, Klik, dan Tunggu! uangmu akan datang menghampirimu
+                        Anda Ingin sampah jadi duid. Kami bisa menyulapnya. Cukup pilah saja sampah anda sesuai kategorinya. Klik It's Clean, maka dalam sekejap uang akan menghampiri anda.
                     </p>
                     <button type="button" class="btn btn-purple hover:bg-white hover:text-green-500 border-2 hover:border-green-500"><a href="#">Clean ITS</a></button>
                 </div>
             </div>
             <!--Rounded rectangle-->          
-        </div>        
+        </div>
+        <!----Features #3--->
+              
     </section>
 
 
